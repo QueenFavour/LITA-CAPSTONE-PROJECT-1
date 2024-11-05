@@ -79,6 +79,8 @@ These findings has proven beyond doubts that Incubator hub made a huge profit th
 2. Incubator Hub retail store needs more experienced marketers that can bring in more sales for other products
 3. Increase production for shoes and introduce a new product such as bags
 
+### THANK YOU ❤️
+
 
 
 
