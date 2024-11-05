@@ -19,6 +19,8 @@ Sales Performance Analysis for Incubator Hub Retail Store
 
 [CONCLUSION](#conclusion)
 
+[RECOMMENDATIONS](#recommendations)
+
 ### PROJECT OVERVIEW 
 Analyzing the sales performance of incubator Hub retail store and the need to explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trend using Data analysis tools such as Excel for creating pivot tables, SQL for data exploration and to produce an interactive Power BI 
