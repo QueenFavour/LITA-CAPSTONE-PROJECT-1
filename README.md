@@ -12,8 +12,8 @@ dashboard that highlights these findings.
 - To analyze various sales trend in Incubator Hub retail store database in SQL 
 - To clean data and create an interactive dashboard of sales data in PowerBI.
 ### DATA ANALYSIS TOOLS USED:
-[Excel](https//www.microsoftexcel.com)
+Microsoft Excel [download here](https//www.microsoftexcel.com)
 
-[Structured Query Language](https//www.microsoftsqlserver.com)
+Microsoft SQL Server [download here](https//www.microsoft.com)
 
-[PowerBI](https//microsoftpowerbi.com)
+Microsoft PowerBI [download here](https//microsoft.com)
