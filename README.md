@@ -11,4 +11,9 @@ dashboard that highlights these findings.
 - To explore sales data using Pivot tables in Excel
 - To analyze various sales trend in Incubator Hub retail store database in SQL 
 - To clean data and create an interactive dashboard of sales data in PowerBI.
+### DATA ANALYSIS TOOLS USED:
+[Excel](https//www.microsoftexcel.com)
 
+[Structured Query Language](https//www.microsoftsqlserver.com)
+
+[PowerBI](https//microsoftpowerbi.com)
