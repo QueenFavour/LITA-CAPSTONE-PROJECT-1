@@ -49,6 +49,7 @@ This involves exploring of the data to answer some questions such as;
 - What is the sum of revenue by region
 ### DATA ANALYSIS
 INSIGHTS
+
 Incubator hub recorded $2M in total revenue for 2024 with the Southern Region recording a total of $927,800 in sales which makes the South the region with the highest sales revenue.The top selling Product for Incubator hub retail store for 2024 is Shoes which recorded a total sales revenue of $613,380. From this analysis we can deduce that Incubator Hub's highest selling Product is shoes. The average sales for the year rests at $211. This indeed has been a profitable year for Incubator hub retail store. We implore investors to invest in the shoes department. Below is a picture of our sales trend using pivot tables in Excel;
 ![Screenshot (5)](https://github.com/user-attachments/assets/1676f337-737c-4168-b31c-edbe709e3539)
 Some of the Excel functions used are;
