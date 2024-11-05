@@ -17,3 +17,17 @@ Microsoft Excel [download here](https//www.microsoftexcel.com)
 Microsoft SQL Server [download here](https//www.microsoft.com)
 
 Microsoft PowerBI [download here](https//microsoft.com)
+### DATA SOURCE:
+The Primary Data Used here is lita capstone project.xlsx for Incubator Hub retail store
+### DATA CLEANING AND PREPARATIONS:
+At the preliminary phase of the data cleaning and preparations , we performed the following actions;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+### EXPLORATORY DATA ANALYSIS:
+This involves exploring of the data to answer some questions such as;
+- Which region recorded the highest sales revenue
+- What is the sum of sales Revenue
+- What is the top selling product
+- What is the sum of revenue by region
+
