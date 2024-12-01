@@ -1,5 +1,5 @@
 ### PROJECT NAME:
-LITA-Capstone-project
+SALES TREND ANALYSIS
 ### PROJECT TITLE:
 Sales Performance Analysis for Incubator Hub Retail Store
 
